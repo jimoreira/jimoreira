@@ -1,14 +1,24 @@
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/jimoreira/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/jimoreira?style=social)](https://twitter.com/jimoreira)
+
 ## Javier Moreira
 - Agronomist precision ag. and digital ag. advisor
 - Following crops/pasture/trees from the sky
 - Learning through On Farm Precision Trials
-- Adding all availabe sources of data to better understand what is happening in the fields (API's mostly)
+- Adding all availabe sources of data to better understand what is happening in the fields (through API's mostly)
 
 
 ## Interest and Hobbies
+Family guy who loves everything that moves..surf, horses.. Kids!
 
 ## Skills and Expertise
-
+- Remote Sensing
+- Statistics, Spatial Statistics
+- Precision ag. equipment
+- Crop managment
+- Soil managment
+- Carbon cropping
+  
 ## Social media links
 
 
