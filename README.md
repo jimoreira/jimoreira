@@ -1,7 +1,8 @@
 ## Javier Moreira
-Agronomist precision ag. and digital ag. advisor
-Following crops/pasture/trees from the sky
-Learning through On Farm Precision Trials
+- Agronomist precision ag. and digital ag. advisor
+- Following crops/pasture/trees from the sky
+- Learning through On Farm Precision Trials
+- Adding all availabe sources of data to better understand what is happening in the fields (API's mostly)
 
 
 ## Interest and Hobbies
