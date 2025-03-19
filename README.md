@@ -19,7 +19,7 @@ Family guy who loves everything that moves..surf, horses.. Kids!
 - Soil managment
 - Carbon cropping
 
-- 🌱 I’m currently learning "Geographic Software Design with @giswqs"
+🌱 I’m currently learning "Geographic Software Design with [@giswqs](https://twitter.com/giswqs)"
   
 <!--
 **jimoreira/jimoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
