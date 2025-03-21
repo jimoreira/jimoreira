@@ -20,13 +20,14 @@ Family guy who loves everything that moves..surf, horses.. Kids!
 - Carbon cropping
 
 🌱 I’m currently learning "Geographic Software Design with [@giswqs](https://twitter.com/giswqs)"
-  
+🔭 I’m currently working on [clisco](http://clisco.net)
+
 <!--
 **jimoreira/jimoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
