@@ -20,6 +20,7 @@ Family guy who loves everything that moves..surf, horses.. Kids!
 - Carbon cropping
 
 🌱 I’m currently learning "Geographic Software Design with [@giswqs](https://twitter.com/giswqs)"
+
 🔭 I’m currently working on [clisco](http://clisco.net)
 
 <!--
